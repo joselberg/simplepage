@@ -1,0 +1,30 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: lightblue;
+}
+
+body {
+    background-color: white;
+    color: #585858;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 3rem;
+    width: 43rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.answer {
+    color: #1797ff;
+    font-weight: 600;
+    text-align: center;
+}
+
+.example {
+    background-color: rgb(238, 238, 238);
+    border: 1px solid grey;
+    font-weight: 700;
+    padding: 1rem;
+}
