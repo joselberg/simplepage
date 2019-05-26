@@ -3,7 +3,8 @@
 }
 
 html {
-    background-color: lightblue;
+    background-color: #2cb5e8;
+    background-image: linear-gradient(135deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
 }
 
 body {
@@ -12,7 +13,7 @@ body {
     height: 100vh;
     margin: 0 auto;
     padding: 3rem;
-    width: 43rem;
+    max-width: 43rem;
     font-family: Arial, Helvetica, sans-serif;
 }
 
